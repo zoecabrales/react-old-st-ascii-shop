@@ -6,7 +6,8 @@ ag-grid-community (Grid styling)
 ====
 Data is displayed in Itemcard.js using in a Grid/Card using bootstrap (no fancy styling)
 Sorting had not been applied
-Add to cart had not been applied 
+Add to cart had not been applied
+Ads had not been applied
 Data is only static (no API used)
 Output has been rendered in a single UI screen (Scrollable)
 ====
